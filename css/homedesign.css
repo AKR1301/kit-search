@@ -1,0 +1,238 @@
+@charset "utf-8";
+
+body {
+	background-color: #ffffe8;
+	padding: 60px 0 0 0;
+}
+
+#headerArea{
+	position: fixed !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #e8e8e8;
+	border-bottom: solid;
+}
+
+.input_form {
+	width: 500px;
+	height: 20px;
+	margin: 10px 10px 0 auto;
+	border: solid;
+	border-radius: 5px;
+	padding: 5px;
+	background-color: #ffffff;
+	text-align: center;
+}
+
+
+
+.show_area {
+	margin-top: 10px;
+	padding: 10px;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.book_area {
+	border: solid;
+	border-radius: 5px;
+	background-color: #e0e0e0;
+	padding: 10px;
+	margin: 20px 0;
+}
+
+.title {
+	border: solid;
+	border-radius: 5px;
+	font-size: 1.5rem;
+	padding: 5px;
+	background-color: #fff;
+}
+
+.char_red {
+	color: #ff0000;
+}
+
+.book_menu {
+	margin-top: 10px;
+	padding: 5px 1px;
+	text-align: center;
+}
+
+.book_menu .field {
+	border: solid;
+	font-size: 1.5rem;
+	width: 220px;
+	display: inline-block;
+	margin: 0 10px;
+	background-color: #fff;
+}
+
+.book_menu .address {
+	border: solid;
+	font-size: 1.5rem;
+	width: 120px;
+	display: inline-block;
+	margin-right:10px;
+	background-color: #fff;
+}
+
+.book_menu .vol {
+	border: solid;
+	font-size: 1.5rem;
+	width: 120px;
+	display: inline-block;
+	margin-right:10px;
+	background-color: #fff;
+}
+
+.book_menu .library {
+	border: solid;
+	font-size: 1.5rem;
+	width: 150px;
+	display: inline-block;
+	margin-right: 10px;
+	background-color: #fff;
+}
+
+.book_menu .state {
+	border: solid;
+	font-size: 1.5rem;
+	width: 180px;
+	display: inline-block;
+	background-color: #fff;
+}
+
+.book_menu .reservation {
+	border: solid;
+	font-size: 1.5rem;
+	width: 120px;
+	display: inline-block;
+	margin: 0 10px;
+	background-color: #fff;
+}
+
+.book_data {
+	border: solid;
+	border-radius: 5px;
+	padding: 5px 1px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.book_data .field {
+	border: solid;
+	font-size: 1.5rem;
+	width: 220px;
+	display: inline-block;
+	background-color: #fff;
+	margin: 5px 10px;
+}
+
+.book_data .address {
+	border: solid;
+	font-size: 1.5rem;
+	width: 120px;
+	display: inline-block;
+	background-color: #fff;
+	margin-right: 10px;
+}
+
+.book_data .vol {
+	border: solid;
+	font-size: 1.5rem;
+	width: 120px;
+	display: inline-block;
+	background-color: #fff;
+	margin-right: 10px;
+}
+
+.book_data .library {
+	border: solid;
+	font-size: 1.5rem;
+	width: 150px;
+	display: inline-block;
+	background-color: #fff;
+	margin-right: 10px;
+}
+
+.book_data .state {
+	border: solid;
+	font-size: 1.5rem;
+	width: 180px;
+	display: inline-block;
+	background-color: #fff;
+}
+
+.book_data .reservation {
+	border: solid;
+	font-size: 1.5rem;
+	width: 120px;
+	display: inline-block;
+	background-color: #fff;
+	margin: 0 10px;
+}
+
+.bibliography_area {
+	margin-top: 10px;
+	padding: 0 15px;
+}
+
+.bibliography {
+	border: solid;
+	border-radius: 5px;
+	font-size: 1.5rem;
+	width: 120px;
+	display: inline-block;
+	text-align: center;
+	margin-right: 5px;
+	background-color: #fff;
+}
+
+.bibliography_data {
+	border: solid;
+	border-radius: 5px;
+	font-size: 1.5rem;
+	width: 150px;
+	display: inline-block;
+	text-align: center;
+	background-color: #fff;
+}
+
+.relation_data {
+	margin-top: 5px;
+	border: solid;
+	border-radius: 5px;
+	font-size: 1.5rem;
+	text-align: center;
+	background-color: #fff;
+}
+
+.next_area {
+	margin: 0 auto;
+	margin-bottom: 50px;
+	width: 100px;
+}
+
+.next_button {
+	width: 120px;
+	height: 30px;
+	font-size: 1.1rem;
+}
+
+.booklink{
+	text-decoration: none;
+}
+
+.detail_area{
+	text-align: center;
+	margin-top: 5px;
+}
+
+.detail{
+	width: 60px;
+	height: 20px;
+}
